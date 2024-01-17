@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Denislav56
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My name is Denislav I'm a new programmer learning C# from Bulgaria.
 
 <!---
 Denislav56/Denislav56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
